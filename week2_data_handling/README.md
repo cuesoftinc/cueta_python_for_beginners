@@ -1,4 +1,4 @@
-# Week 2: Data Handling (CSV → Insights)
+# Week 2 — Data Handling (CSV → Insights)
 
 You’ll write stdlib-only ETL utilities: read CSV, coerce types, aggregate, smooth, and rank.
 

@@ -1,4 +1,4 @@
-# Week 1: Python Basics (From Zero to Problem Solving)
+# Week 1 — Python Basics (From Zero to Problem Solving)
 
 You’ll practice thinking like a programmer while writing clean, testable Python.
 
